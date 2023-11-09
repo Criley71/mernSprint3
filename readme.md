@@ -4,7 +4,7 @@ PaxPal App following this tutorial (https://www.youtube.com/watch?v=-0exw-9YJBo)
 
 ## Usage
 
-Rename the .envexample to .env and add your MONGO_URI
+npm run dev in the root directory
 
 ### Install dependencies
 
